@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884647904633",
+    "project_id": "fuchsia-f0d37",
+    "storage_bucket": "fuchsia-f0d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884647904633:android:f196599e413649b64b1ba8",
+        "android_client_info": {
+          "package_name": "com.github.nauticoon.fuchsia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTHLkIY71aWmk5bk8cbnvHuwdDY01cUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884647904633:android:7760e9138af555964b1ba8",
+        "android_client_info": {
+          "package_name": "com.github.nautiii.fuchsia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTHLkIY71aWmk5bk8cbnvHuwdDY01cUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
